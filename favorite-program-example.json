@@ -1,0 +1,38 @@
+{
+  "groups": [
+    {
+      "blocks": [
+        {
+          "blockStyle": "list",
+          "cardStyle": "large",
+          "items": [
+            {
+              "id": "unique-id-1",
+              "imageURL": "",
+              "title": "Lose weight",
+              "leftSubtitle": "17 min a day",
+              "rightSubtitle": "32 practices"
+            }
+          ]
+        },
+        {
+          "blockStyle": "grouped",
+          "items": [
+            {
+              "id": "unique-id-2",
+              "imageURL": "",
+              "title": "Remove swelling",
+              "leftSubtitle": "12 min a day"
+            },
+            {
+              "id": "unique-id-3",
+              "imageURL": "",
+              "title": "Maintain weight",
+              "leftSubtitle": "15 min a day"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

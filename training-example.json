@@ -1,0 +1,278 @@
+{
+  "groups": [
+    {
+      "blocks": [
+        {
+          "blockStyle": "list",
+          "cardStyle": "large",
+          "items": [
+            {
+              "id": "unique-id-1",
+              "imageURL": "",
+              "title": "Yoga for Sleep",
+              "leftSubtitle": "18 min",
+              "rightSubtitle": "218 kcal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Quick Yoga",
+      "blocks": [
+        {
+          "blockStyle": "grouped",
+          "items": [
+            {
+              "id": "unique-id-2",
+              "imageURL": "",
+              "title": "lunch yoga",
+              "leftSubtitle": "12 min",
+              "rightSubtitle": "20 kcal"
+            },
+            {
+              "id": "unique-id-3",
+              "imageURL": "",
+              "title": "office yoga",
+              "leftSubtitle": "18 min",
+              "rightSubtitle": "20 kcal"
+            },
+            {
+              "id": "unique-id-4",
+              "imageURL": "",
+              "title": "yoga for tired eyes",
+              "leftSubtitle": "9 min",
+              "rightSubtitle": "20 kcal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blocks": [
+        {
+          "blockStyle": "list",
+          "cardStyle": "medium",
+          "alignement": "right",
+          "items": [
+            {
+              "id": "unique-id-5",
+              "imageURL": "",
+              "title": "SOS Yoga",
+              "leftSubtitle": "4 min",
+              "rightSubtitle": "19 kcal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Women's Health",
+      "blocks": [
+        {
+          "blockStyle": "grouped",
+          "items": [
+            {
+              "id": "unique-id-6",
+              "imageURL": "",
+              "title": "Pain menstruation",
+              "leftSubtitle": "6 min"
+            },
+            {
+              "id": "unique-id-7",
+              "imageURL": "",
+              "title": "PMS",
+              "leftSubtitle": "6 min"
+            },
+            {
+              "id": "unique-id-8",
+              "imageURL": "",
+              "title": "amenorrhea",
+              "leftSubtitle": "6 min"
+            },
+            {
+              "id": "unique-id-9",
+              "imageURL": "",
+              "title": "Menorrhagia",
+              "leftSubtitle": "6 min"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sleep Improvement",
+      "blocks": [
+        {
+          "blockStyle": "list",
+          "cardStyle": "small",
+          "items": [
+            {
+              "id": "unique-id-10",
+              "imageURL": "",
+              "title": "Yoga for Sleep",
+              "leftSubtitle": "18 min",
+              "rightSubtitle": "218 kcal"
+            },
+            {
+              "id": "unique-id-11",
+              "imageURL": "",
+              "title": "Yoga for Insomnia",
+              "leftSubtitle": "12 min",
+              "rightSubtitle": "87 kcal"
+            },
+            {
+              "id": "unique-id-12",
+              "imageURL": "",
+              "title": "morning yoga",
+              "leftSubtitle": "9 min",
+              "rightSubtitle": "72 kcal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pain Relief",
+      "blocks": [
+        {
+          "blockStyle": "list",
+          "cardStyle": "medium",
+          "alignement": "right",
+          "items": [
+            {
+              "id": "unique-id-13",
+              "imageURL": "",
+              "title": "Headache",
+              "leftSubtitle": "4 min",
+              "rightSubtitle": "19 kcal"
+            }
+          ]
+        },
+        {
+          "blockStyle": "list",
+          "cardStyle": "mini",
+          "items": [
+            {
+              "id": "unique-id-14",
+              "imageURL": "",
+              "title": "Neck pain",
+              "leftSubtitle": "9 min",
+              "rightSubtitle": "19 kcal"
+            },
+            {
+              "id": "unique-id-15",
+              "imageURL": "",
+              "title": "Low back pain",
+              "leftSubtitle": "9 min",
+              "rightSubtitle": "19 kcal"
+            }
+          ]
+        },
+        {
+          "blockStyle": "grouped",
+          "items": [
+            {
+              "id": "unique-id-16",
+              "imageURL": "",
+              "title": "Upper back pain",
+              "leftSubtitle": "12 min"
+            },
+            {
+              "id": "unique-id-17",
+              "imageURL": "",
+              "title": "Middle back pain",
+              "leftSubtitle": "18 min"
+            }
+          ]
+        },
+        {
+          "blockStyle": "list",
+          "cardStyle": "medium",
+          "items": [
+            {
+              "id": "unique-id-18",
+              "imageURL": "",
+              "title": "Muscle and chest spasms",
+              "leftSubtitle": "4 min",
+              "rightSubtitle": "19 kcal"
+            }
+          ]
+        },
+        {
+          "blockStyle": "grouped",
+          "items": [
+            {
+              "id": "unique-id-19",
+              "imageURL": "",
+              "title": "leg pain",
+              "leftSubtitle": "12 min",
+              "rightSubtitle": "12 kcal"
+            },
+            {
+              "id": "unique-id-20",
+              "imageURL": "",
+              "title": "Arthritis",
+              "leftSubtitle": "18 min",
+              "rightSubtitle": "18 kcal"
+            },
+            {
+              "id": "unique-id-21",
+              "imageURL": "",
+              "title": "Joint pain, limited joint mobility",
+              "leftSubtitle": "9 min",
+              "rightSubtitle": "19 kcal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Breathing Practices",
+      "blocks": [
+        {
+          "blockStyle": "list",
+          "cardStyle": "medium",
+          "isLightContent": true,
+          "items": [
+            {
+              "id": "unique-id-22",
+              "imageURL": "",
+              "title": "Yoga for Sleep",
+              "leftSubtitle": "18 min"
+            },
+            {
+              "id": "unique-id-23",
+              "imageURL": "",
+              "title": "Yoga for Sleep",
+              "leftSubtitle": "18 min"
+            },
+            {
+              "id": "unique-id-24",
+              "imageURL": "",
+              "title": "Yoga for Sleep",
+              "leftSubtitle": "18 min"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "For Professionals",
+      "blocks": [
+        {
+          "blockStyle": "list",
+          "cardStyle": "medium",
+          "items": [
+            {
+              "id": "unique-id-25",
+              "imageURL": "",
+              "title": "Professional Yoga Venyas",
+              "leftSubtitle": "29 min"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

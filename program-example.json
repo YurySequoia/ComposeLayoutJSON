@@ -1,0 +1,231 @@
+{
+  "groups": [
+    {
+      "name": "Weight Loss",
+      "blocks": [
+        {
+          "blockStyle": "list",
+          "cardStyle": "large",
+          "items": [
+            {
+              "id": "unique-id-1",
+              "imageURL": "",
+              "title": "Lose weight",
+              "leftSubtitle": "17 min a day",
+              "rightSubtitle": "32 practices"
+            }
+          ]
+        },
+        {
+          "blockStyle": "grouped",
+          "items": [
+            {
+              "id": "unique-id-2",
+              "imageURL": "",
+              "title": "Remove swelling",
+              "leftSubtitle": "15 min a day"
+            },
+            {
+              "id": "unique-id-3",
+              "imageURL": "",
+              "title": "Maintain weight",
+              "leftSubtitle": "12 min a day"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Recovery after Childbirth",
+      "blocks": [
+        {
+          "blockStyle": "list",
+          "cardStyle": "medium",
+          "items": [
+            {
+              "id": "unique-id-4",
+              "imageURL": "",
+              "title": "Postnatal Yoga",
+              "leftSubtitle": "13 min a day",
+              "rightSubtitle": "19 practices"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beauty",
+      "blocks": [
+        {
+          "blockStyle": "scroll",
+          "items": [
+            {
+              "id": "unique-id-5",
+              "imageURL": "",
+              "title": "Narrow waist",
+              "leftSubtitle": "17 min a day",
+              "rightSubtitle": "32 practices"
+            },
+            {
+              "id": "unique-id-6",
+              "imageURL": "",
+              "title": "Flat stomach",
+              "leftSubtitle": "20 min a day",
+              "rightSubtitle": "12 practices"
+            },
+            {
+              "id": "unique-id-7",
+              "imageURL": "",
+              "title": "Narrow waist",
+              "leftSubtitle": "17 min a day",
+              "rightSubtitle": "32 practices"
+            },
+            {
+              "id": "unique-id-8",
+              "imageURL": "",
+              "title": "Flat stomach",
+              "leftSubtitle": "20 min a day",
+              "rightSubtitle": "12 practices"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Antistress",
+      "blocks": [
+        {
+          "blockStyle": "grouped",
+          "items": [
+            {
+              "id": "unique-id-9",
+              "imageURL": "",
+              "title": "Stress",
+              "leftSubtitle": "12 min a day"
+            },
+            {
+              "id": "unique-id-10",
+              "imageURL": "",
+              "title": "Fear",
+              "leftSubtitle": "15 min a day"
+            }
+          ]
+        },
+        {
+          "blockStyle": "list",
+          "cardStyle": "mini",
+          "items": [
+            {
+              "id": "unique-id-11",
+              "imageURL": "",
+              "title": "Anxiety and worries",
+              "leftSubtitle": "9 min a day"
+            },
+            {
+              "id": "unique-id-12",
+              "imageURL": "",
+              "title": "Panic and panic attacks",
+              "leftSubtitle": "9 min a day"
+            }
+          ]
+        },
+        {
+          "blockStyle": "list",
+          "cardStyle": "medium",
+          "items": [
+            {
+              "id": "unique-id-13",
+              "imageURL": "",
+              "title": "Mind fatigue",
+              "leftSubtitle": "20 min a day",
+              "rightSubtitle": "19 practices"
+            }
+          ]
+        },
+        {
+          "blockStyle": "grouped",
+          "items": [
+            {
+              "id": "unique-id-14",
+              "imageURL": "",
+              "title": "Memory LOSS",
+              "leftSubtitle": "12 min a day"
+            },
+            {
+              "id": "unique-id-15",
+              "imageURL": "",
+              "title": "Physical fatigue",
+              "leftSubtitle": "15 min a day"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Disease Prevention",
+      "blocks": [
+        {
+          "blockStyle": "scroll",
+          "items": [
+            {
+              "id": "unique-id-16",
+              "imageURL": "",
+              "title": "eyes yoga",
+              "leftSubtitle": "17 min a day",
+              "rightSubtitle": "32 practices"
+            },
+            {
+              "id": "unique-id-17",
+              "imageURL": "",
+              "title": "cold yoga",
+              "leftSubtitle": "20 min a day",
+              "rightSubtitle": "12 practices"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sleep Improvement",
+      "blocks": [
+        {
+          "blockStyle": "list",
+          "cardStyle": "large",
+          "items": [
+            {
+              "id": "unique-id-18",
+              "imageURL": "",
+              "title": "heart and circulatory system",
+              "leftSubtitle": "17 min a day",
+              "rightSubtitle": "32 practices"
+            }
+          ]
+        },
+        {
+          "blockStyle": "grouped",
+          "items": [
+            {
+              "id": "unique-id-19",
+              "imageURL": "",
+              "title": "low pressure",
+              "leftSubtitle": "12 min a day"
+            },
+            {
+              "id": "unique-id-20",
+              "imageURL": "",
+              "title": "high pressure",
+              "leftSubtitle": "15 min a day"
+            },
+            {
+              "id": "unique-id-21",
+              "imageURL": "",
+              "title": "clogged arteries",
+              "leftSubtitle": "12 min a day"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,44 @@
+{
+  "groups": [
+    {
+      "blocks": [
+        {
+          "blockStyle": "list",
+          "cardStyle": "large",
+          "items": [
+            {
+              "id": "unique-id-1",
+              "imageURL": "",
+              "title": "Yoga for Sleep",
+              "leftSubtitle": "18 min",
+              "rightSubtitle": "218 kcal"
+            }
+          ]
+        },
+        {
+          "blockStyle": "grouped",
+          "items": [
+            {
+              "id": "unique-id-2",
+              "imageURL": "",
+              "title": "lunch yoga",
+              "leftSubtitle": "12 min"
+            },
+            {
+              "id": "unique-id-3",
+              "imageURL": "",
+              "title": "office yoga",
+              "leftSubtitle": "18 min"
+            },
+            {
+              "id": "unique-id-4",
+              "imageURL": "",
+              "title": "yoga for tired eyes",
+              "leftSubtitle": "9 min"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

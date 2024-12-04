@@ -1,0 +1,73 @@
+{
+  "groups": [
+    {
+      "blocks": [
+        {
+          "blockStyle": "list",
+          "cardStyle": "large",
+          "items": [
+            {
+              "id": "unique-id-1",
+              "imageURL": "",
+              "title": "heart and circulatory system",
+              "leftSubtitle": "17 min a day",
+              "rightSubtitle": "32 practices"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Previous programs",
+      "blocks": [
+        {
+          "blockStyle": "list",
+          "cardStyle": "medium",
+          "items": [
+            {
+              "id": "unique-id-2",
+              "imageURL": "",
+              "title": "Narrow waist",
+              "leftSubtitle": "17 min a day",
+              "rightSubtitle": "32 practices"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blocks": [
+        {
+          "blockStyle": "list",
+          "cardStyle": "mini",
+          "items": [
+            {
+              "id": "unique-id-3",
+              "imageURL": "",
+              "title": "Panic and panic attacks",
+              "leftSubtitle": "9 min"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blocks": [
+        {
+          "blockStyle": "list",
+          "cardStyle": "medium",
+          "alignement": "right",
+          "items": [
+            {
+              "id": "unique-id-4",
+              "imageURL": "",
+              "title": "Mind fatigue",
+              "leftSubtitle": "17 min a day",
+              "rightSubtitle": "32 practices"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
